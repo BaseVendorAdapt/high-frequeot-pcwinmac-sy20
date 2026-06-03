@@ -1,4 +1,4 @@
-# 
+# Turbo high-frequency trading bot plugins for Mac OS | VIP high-frequency trading bot plugins for PC Windows. Featuring gas optimization and real-time price feeds — optimized for maximum performance on every platform.
 
 
 
